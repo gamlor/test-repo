@@ -1,4 +1,5 @@
 +task+ my-first task
 
 --target main +task+ All ok?
+--target main +task+ iMore?
 --target release/* +task+ Bug fix?
