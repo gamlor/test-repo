@@ -1,0 +1,4 @@
++task+ my-first task
+
+--target main +task+ All ok?
+--target release/* +task+ Bug fix?
