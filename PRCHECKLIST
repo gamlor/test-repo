@@ -1,6 +1,6 @@
 +task+ my-first task
 
---target main *title* Mainline
+--target main +title+ Mainline
 --target main +task+ All ok?
 --target main +task+ iMore?
 --files auth/* --target main +comment+ Ping security team
